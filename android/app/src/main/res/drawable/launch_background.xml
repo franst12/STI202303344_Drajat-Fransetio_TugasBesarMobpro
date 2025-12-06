@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- LayerList adalah tumpukan layer tampilan -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Item 1: Warna Background Putih (Default) -->
+    <item android:drawable="@android:color/white" />
+    
+</layer-list>
